@@ -1,0 +1,50 @@
+.my-box {
+  border: black 2px solid;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+img {
+  width: 90px;
+}
+.container{
+  margin: 0 auto;
+}
+.footer{
+    width: 320px;
+    margin: 0 auto;
+
+}
+.players{
+
+  margin: 0 auto;
+  float: left;
+}
+#player1-wrapper{
+  margin: 0 auto;
+
+}
+#player2-wrapper{
+  margin: 0 auto;
+
+}
+
+.startGame{
+  clear: both;
+  margin: 0 auto;
+  width: 270px;
+  font-size: 14px;
+  border: 2px solid red;
+  text-align: center;
+}
+.boxes{
+  margin: 0 auto;
+  height: 320px;
+  width: 320px;
+}
+.header{
+  width: 320px;
+  margin: 0 auto;
+}
